@@ -1,0 +1,30 @@
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 1\ComplSysSecurity_lab1\ComplSysSecurity_lab1\bin\Debug\ComplSysSecurity_lab1.exe.config
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 1\ComplSysSecurity_lab1\ComplSysSecurity_lab1\bin\Debug\ComplSysSecurity_lab1.exe
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 1\ComplSysSecurity_lab1\ComplSysSecurity_lab1\bin\Debug\ComplSysSecurity_lab1.pdb
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 1\ComplSysSecurity_lab1\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.csprojAssemblyReference.cache
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 1\ComplSysSecurity_lab1\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.Form1.resources
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 1\ComplSysSecurity_lab1\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.Properties.Resources.resources
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 1\ComplSysSecurity_lab1\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.csproj.GenerateResource.cache
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 1\ComplSysSecurity_lab1\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.csproj.CoreCompileInputs.cache
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 1\ComplSysSecurity_lab1\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.exe
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 1\ComplSysSecurity_lab1\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.pdb
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2\ComplSysSecurity_lab1\bin\Debug\ComplSysSecurity_lab1.exe.config
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2\ComplSysSecurity_lab1\bin\Debug\ComplSysSecurity_lab1.exe
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2\ComplSysSecurity_lab1\bin\Debug\ComplSysSecurity_lab1.pdb
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.csprojAssemblyReference.cache
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.Form1.resources
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.Properties.Resources.resources
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.csproj.GenerateResource.cache
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.csproj.CoreCompileInputs.cache
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.exe
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.pdb
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2 - double coding\ComplSysSecurity_lab1\bin\Debug\ComplSysSecurity_lab1.exe.config
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2 - double coding\ComplSysSecurity_lab1\bin\Debug\ComplSysSecurity_lab1.exe
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2 - double coding\ComplSysSecurity_lab1\bin\Debug\ComplSysSecurity_lab1.pdb
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2 - double coding\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.csprojAssemblyReference.cache
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2 - double coding\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.Form1.resources
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2 - double coding\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.Properties.Resources.resources
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2 - double coding\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.csproj.GenerateResource.cache
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2 - double coding\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.csproj.CoreCompileInputs.cache
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2 - double coding\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.exe
+G:\Uni\2021 spring\Захист інформації у комп'ютерних системах\project lab 2\ComplSysSecurity_lab2 - double coding\ComplSysSecurity_lab1\obj\Debug\ComplSysSecurity_lab1.pdb
